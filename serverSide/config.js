@@ -6,8 +6,8 @@ var config = {
     HOST : 'localhost',
     PORT : '27017'
     },
-    myEmail:'mohitsoodbhagra@gmail.com',
-    password:'rohitmohit5934@&'
+    myEmail:'yourusername@gmail.com',
+    password:'yourpassword'
 }
 module.exports = config;
 
